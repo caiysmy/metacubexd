@@ -1,0 +1,1 @@
+import{J as e,U as t,it as n,nt as r,xt as i}from"./BUwZQTr6.js";var a=e({__name:`ConfigTitle`,props:{withDivider:{type:Boolean}},setup(e){return(a,o)=>(r(),t(`div`,{class:i([`py-2 text-center text-lg font-semibold`,{divider:e.withDivider}])},[n(a.$slots,`default`)],2))}}),o=Object.assign(a,{__name:`ConfigTitle`});export{o as t};
